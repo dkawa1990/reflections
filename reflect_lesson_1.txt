@@ -1,0 +1,72 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   
+
+Fill in your answer here
+
+
+It showed the location and snippets of the new/old file text where the files differed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+
+Fill in your answer here
+Undo when something new doesn't work as expected.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+
+Fill in your answer here
+
+
+The resolution fo saving too often may be too fine. Manually after significant changes are often better.
+
+Why do you think some version control systems, like Git, allow saving multiple
+ files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+
+Fill in your answer here
+
+Because Git is for tracking software projects which usual consist of multiple inter-related files.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+Fill in your answer here
+
+I don't klnow git.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+Fill in your answer here
+Because you can more easily recover from mistakes.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+Keepass
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Recovery, avoidance of similar mistakes...
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Commit when it is just right
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Used for different purposes (e.g. non-related documents, versus multiple file software projects)
